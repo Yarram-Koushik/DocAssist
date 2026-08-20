@@ -18,10 +18,20 @@ def create_app(config_name='default'):
     db.init_app(app)
     migrate.init_app(app, db)
     jwt.init_app(app)
-    CORS(app, resources={r"/api/*": {"origins": app.config['CORS_ORIGINS']}})
+    
+    # Enable universal CORS for cloud deployment (Vercel -> Render)
+    CORS(app, resources={r"/*": {"origins": "*"}})
     
     if not os.path.exists(app.config['UPLOAD_FOLDER']):
         os.makedirs(app.config['UPLOAD_FOLDER'])
+        
+    # Auto-initialize database tables on startup
+    with app.app_context():
+        try:
+            db.create_all()
+        except Exception as e:
+            app.logger.warning(f"Database init warning: {e}")
+
         
     from routes.auth import auth_bp
     from routes.chat import chat_bp
