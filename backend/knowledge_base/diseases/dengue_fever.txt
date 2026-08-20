@@ -1,0 +1,33 @@
+Dengue Fever
+
+Overview:
+Dengue fever is an acute, mosquito-borne viral infection caused by the dengue virus (DENV, serotypes 1–4), a member of the Flaviviridae family. The virus is primarily transmitted to humans through the bites of infected female mosquitoes, predominantly Aedes aegypti and, to a lesser extent, Aedes albopictus. Dengue is prevalent in tropical and subtropical regions worldwide, particularly in urban and semi-urban settings.
+
+Symptoms:
+Symptoms typically appear 4 to 10 days after an infective mosquito bite and last for 2 to 7 days. Common clinical manifestations include:
+- Sudden onset of high-grade fever (up to 40°C / 104°F)
+- Severe frontal headache and retro-orbital pain (pain behind the eyes)
+- Severe muscle (myalgia) and joint pain (arthralgia), often termed "breakbone fever"
+- Nausea, vomiting, and loss of appetite
+- Maculopapular skin rash appearing 2 to 5 days after fever onset
+- Mild hemorrhagic manifestations, such as nosebleeds (epistaxis) or bleeding gums
+
+Warning Signs of Severe Dengue (Dengue Hemorrhagic Fever / Dengue Shock Syndrome):
+Severe dengue is a life-threatening complication characterized by plasma leakage, fluid accumulation, severe bleeding, and organ impairment. Critical warning signs occurring 3 to 7 days after illness onset include severe abdominal pain, persistent vomiting, rapid breathing, mucosal bleeding, extreme fatigue or restlessness, and hepatomegaly.
+
+Risk Factors:
+- Living in or traveling to tropical and subtropical dengue-endemic areas
+- Prior infection with a different DENV serotype significantly increases the risk of severe dengue
+- High mosquito vector density and inadequate urban sanitation
+
+Prevention:
+- Vector control: Eliminating standing water in containers, tires, flowerpots, and cisterns to disrupt mosquito breeding sites
+- Personal protection: Using EPA-registered insect repellents containing DEET, Picaridin, or IR3535
+- Physical barriers: Wearing long-sleeved clothing, installing window and door screens, and sleeping under insecticide-treated bed nets
+
+When to See a Doctor:
+Consult a healthcare provider immediately if you develop high fever after visiting a dengue-endemic area. Seek emergency medical attention immediately if warning signs of severe dengue appear, such as persistent vomiting, severe abdominal pain, breathlessness, or spontaneous bleeding.
+
+Sources:
+- World Health Organization (WHO) - Dengue and Severe Dengue Fact Sheet
+- Centers for Disease Control and Prevention (CDC) - Dengue Clinical Guidance

@@ -1,0 +1,59 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+.eggs/
+venv/
+env/
+ENV/
+backend/venv/
+backend/env/
+.pytest_cache/
+backend/.pytest_cache/
+*.db
+*.sqlite3
+backend/instance/
+instance/
+
+# Node
+node_modules/
+frontend/node_modules/
+frontend/dist/
+dist/
+.npm
+.eslintcache
+
+# Environment & Secrets (NEVER COMMIT)
+.env
+.env.*
+!.env.example
+backend/.env
+backend/.env.*
+frontend/.env
+frontend/.env.*
+
+# IDE & OS
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Uploads & Temp Data
+backend/uploads/*
+!backend/uploads/.gitkeep
+backend/data/uploads/*
+!backend/data/uploads/.gitkeep
+backend/data/temp/*
+backend/*.pdf
+backend/dummy.pdf
+backend/vector_store/*.faiss
+backend/vector_store/*.pkl
+!backend/vector_store/.gitkeep
+
+

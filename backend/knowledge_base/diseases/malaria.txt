@@ -1,0 +1,35 @@
+Malaria
+
+Overview:
+Malaria is a life-threatening, vector-borne infectious disease caused by protozoan parasites of the genus Plasmodium, primarily Plasmodium falciparum, Plasmodium vivax, Plasmodium ovale, Plasmodium malariae, and Plasmodium knowlesi. P. falciparum is the deadliest species and predominates in Sub-Saharan Africa. The parasite is transmitted to humans through the nocturnal bite of infected female Anopheles mosquitoes. After transmission, the parasites travel to the liver to mature before invading and destroying host erythrocytes (red blood cells).
+
+Symptoms:
+Symptoms generally manifest 10 to 15 days following the infective bite, often following a cyclical paroxysmal pattern:
+- High-grade fever with cyclical chills, rigors, and profuse drenching sweats
+- Severe headache, generalized muscle aches (myalgia), and back pain
+- Nausea, vomiting, abdominal cramps, and diarrhea
+- Progressive pallor and jaundice due to hemolytic destruction of red blood cells
+- Hepatosplenomegaly (enlarged liver and spleen)
+
+Complications of Severe Malaria:
+If untreated, particularly with P. falciparum, infection can rapidly progress to cerebral malaria (seizures, coma, altered consciousness), severe hemolytic anemia, acute renal failure, metabolic acidosis, and pulmonary edema.
+
+Risk Factors:
+- Travel to or residence in tropical and subtropical endemic regions across Sub-Saharan Africa, South Asia, Southeast Asia, and South America
+- Lack of acquired partial immunity, placing infants, young children, pregnant women, and non-immune travelers at highest risk
+
+Prevention:
+- Vector control: Sleeping under insecticide-treated bed nets (ITNs) and indoor residual spraying (IRS)
+- Chemoprophylaxis: Prophylactic antimalarial regimens (such as atovaquone-proguanil, doxycycline, or mefloquine) for travelers
+- Mosquito bite avoidance: Applying EPA-approved DEET repellents and wearing permethrin-treated long clothing during peak mosquito biting hours (dusk to dawn)
+- Malaria vaccines: Implementation of RTS,S/AS01 and R21/Matrix-M vaccines in high-transmission areas
+
+Treatment Importance:
+Prompt parasitological confirmation using rapid diagnostic tests (RDTs) or blood smear microscopy is vital. Artemisinin-based combination therapies (ACTs) represent the gold-standard frontline treatment for uncomplicated P. falciparum malaria. Timely administration within 24 hours of fever onset prevents progression to fatal severe complications.
+
+When to See a Doctor:
+Seek immediate medical evaluation if developing fever or flu-like symptoms during or up to a year following travel to a malaria-endemic region. Emergency care is mandatory if presenting with confusion, severe vomiting, dark urine, or extreme pallor.
+
+Sources:
+- World Health Organization (WHO) - Malaria Fact Sheet & Guidelines for Malaria
+- Centers for Disease Control and Prevention (CDC) - Malaria Diagnosis and Treatment Guidelines

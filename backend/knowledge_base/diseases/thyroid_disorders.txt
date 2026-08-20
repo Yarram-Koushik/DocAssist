@@ -1,0 +1,48 @@
+Thyroid Disorders
+
+Overview:
+The thyroid gland is an endocrine organ located at the anterior base of the neck that synthesizes thyroid hormones—primarily thyroxine (T4) and triiodothyronine (T3). These hormones regulate systemic basal metabolic rate, cardiac function, temperature control, and protein synthesis. The two primary functional dysfunctions are Hypothyroidism (underactive thyroid producing insufficient hormones) and Hyperthyroidism (overactive thyroid producing excess hormones).
+
+Symptoms of Hypothyroidism:
+- Unexplained weight gain and slowed metabolic rate
+- Cold intolerance and hypothermia
+- Chronic fatigue, lethargy, and muscle weakness
+- Constipation and slowed digestion
+- Dry, coarse skin, brittle hair, and hair thinning
+- Bradycardia (slow heart rate)
+- Depressive mood, memory fog, and cognitive slowing
+- Heavy or irregular menstrual periods
+
+Symptoms of Hyperthyroidism:
+- Unintentional weight loss despite normal or increased appetite
+- Heat intolerance and excessive perspiration
+- Tachycardia, palpitations, or cardiac arrhythmias (e.g., atrial fibrillation)
+- Nervousness, anxiety, irritability, and fine hand tremors
+- Frequent bowel movements or diarrhea
+- Insomnia, restlessness, and muscle weakness
+- Exophthalmos (protruding eyes) in Graves' disease
+
+Diagnostic Biomarkers (TSH, Free T3, Free T4):
+- Thyroid-Stimulating Hormone (TSH): Released by the pituitary gland via negative feedback.
+  - Elevated TSH + Low Free T4: Indicates primary hypothyroidism (e.g., Hashimoto's thyroiditis).
+  - Suppressed/Low TSH + Elevated Free T3/T4: Indicates primary hyperthyroidism (e.g., Graves' disease, toxic nodular goiter).
+  - Normal reference ranges: TSH (approx. 0.4–4.0 mIU/L), Free T4 (approx. 0.8–1.8 ng/dL).
+
+Risk Factors:
+- Autoimmune disorders (Hashimoto's thyroiditis, Graves' disease, Type 1 diabetes)
+- Female sex (5 to 8 times more prevalent in women than men)
+- Family history of thyroid disease
+- Prior thyroid surgery, radioactive iodine therapy, or neck radiation
+- Inadequate or excessive dietary iodine intake
+
+Prevention and Management:
+- Ensuring adequate dietary iodine intake (iodized salt, seafood)
+- Regular endocrine screening in high-risk individuals and during pregnancy
+- Lifelong hormone replacement therapy (levothyroxine) for hypothyroidism or antithyroid medications (methimazole, PTU) / radioactive iodine for hyperthyroidism
+
+When to See a Doctor:
+Consult a healthcare provider if experiencing persistent unexplainable changes in weight, energy levels, heart rate, or temperature tolerance, or if you notice a palpable mass or swelling in the anterior neck (goiter).
+
+Sources:
+- American Thyroid Association (ATA) - Thyroid Disease Guidelines & Patient Resources
+- MedlinePlus / National Institutes of Health (NIH) - Thyroid Diseases and Diagnostic Testing

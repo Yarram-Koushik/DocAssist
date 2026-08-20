@@ -1,0 +1,37 @@
+COVID-19 (Coronavirus Disease 2019)
+
+Overview:
+COVID-19 is an infectious respiratory illness caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). First identified in late 2019, the virus spreads primarily through respiratory droplets, aerosols, and direct contact with infected individuals. SARS-CoV-2 continues to evolve into distinct variants (e.g., Delta, Omicron sublineages) exhibiting varying degrees of transmissibility and immune evasiveness.
+
+Symptoms:
+Symptoms range from mild discomfort to severe systemic illness, typically presenting 2 to 14 days post-exposure:
+- Fever, chills, and rigors
+- Dry cough and sore throat
+- Shortness of breath or difficulty breathing
+- Profound fatigue, generalized body aches, and headaches
+- New loss of taste (ageusia) or smell (anosmia)
+- Congestion, rhinorrhea, nausea, vomiting, or diarrhea
+
+Post-COVID Condition (Long COVID):
+Some individuals experience persistent, recurring, or new symptoms lasting weeks to months after initial recovery. Common long COVID manifestations include cognitive dysfunction ("brain fog"), chronic fatigue, exertional intolerance, sleep disturbances, chest pain, and autonomic dysregulation (such as postural tachycardia).
+
+Risk Factors:
+- Advanced age (risk increases substantially with age, particularly >= 65 years)
+- Underlying chronic conditions: Cardiovascular disease, chronic kidney or lung diseases, diabetes, obesity (BMI >= 30), and immunosuppressive states
+
+Prevention:
+- Vaccination: Staying up to date with authorized mRNA and protein subunit COVID-19 vaccines and seasonal boosters
+- Ventilation: Ensuring adequate indoor air exchange, air filtration, and natural airflow
+- Hygiene and PPE: Frequent hand hygiene and wearing high-filtration respirators (N95/KN95) in crowded or high-risk settings
+
+When to Seek Emergency Care:
+Seek emergency medical evaluation immediately if exhibiting critical danger signs:
+- Severe respiratory distress or inability to catch breath
+- Persistent pain, pressure, or tightness in the chest
+- New confusion, lethargy, or inability to wake or stay awake
+- Pale, gray, or blue skin, lips, or nail beds (cyanosis)
+- Oxygen saturation (SpO2) falling consistently below 94% on room air
+
+Sources:
+- World Health Organization (WHO) - Coronavirus Disease (COVID-19) Guidelines
+- Centers for Disease Control and Prevention (CDC) - COVID-19 Clinical Management & Prevention

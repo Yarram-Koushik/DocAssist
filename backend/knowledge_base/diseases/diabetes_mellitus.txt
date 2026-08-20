@@ -1,0 +1,39 @@
+Diabetes Mellitus
+
+Overview:
+Diabetes mellitus is a chronic metabolic disorder characterized by persistent hyperglycemia resulting from defects in insulin secretion, insulin action, or both. The two primary forms are Type 1 diabetes, an autoimmune condition where pancreatic beta cells are destroyed leading to absolute insulin deficiency, and Type 2 diabetes, a progressive condition characterized by peripheral insulin resistance combined with a relative deficiency in insulin secretion. Gestational diabetes occurs during pregnancy and increases lifetime risk for Type 2 diabetes.
+
+Symptoms:
+Classic clinical manifestations of elevated blood glucose include:
+- Polyuria: Frequent urination, especially at night
+- Polydipsia: Excessive, unquenchable thirst
+- Polyphagia: Increased hunger despite regular food intake
+- Unexplained weight loss (particularly rapid in Type 1)
+- Chronic fatigue, weakness, and lethargy
+- Blurry vision and difficulty focusing
+- Slow-healing sores, cuts, or frequent infections (e.g., skin or urinary tract)
+- Tingling, numbness, or burning pain in the hands or feet (peripheral neuropathy)
+
+HbA1c Monitoring and Diagnostic Criteria:
+The Hemoglobin A1c (HbA1c) test reflects the average blood glucose concentration over the preceding 2 to 3 months:
+- Normal: Less than 5.7%
+- Prediabetes: 5.7% to 6.4%
+- Diabetes: 6.5% or higher on two separate tests
+
+Risk Factors:
+- Type 1: Genetic predisposition, family history, and potential environmental triggers
+- Type 2: Overweight or obesity (BMI >= 25 kg/m²), physical inactivity, age >= 45 years, family history of Type 2 diabetes, hypertension (>= 130/80 mmHg), dyslipidemia (HDL < 35 mg/dL or triglycerides > 250 mg/dL), and history of gestational diabetes
+
+Prevention:
+- For Type 2: Engaging in at least 150 minutes of moderate-intensity aerobic physical activity per week
+- Adopting a balanced dietary pattern rich in whole grains, dietary fiber, lean proteins, and unsaturated fats while limiting refined sugars and saturated fats
+- Sustained weight reduction of 5% to 7% of total body weight in individuals with prediabetes
+- Routine screening for high-risk individuals
+
+When to See a Doctor:
+Schedule an appointment with a healthcare professional if you experience persistent symptoms such as unquenchable thirst, frequent urination, or unexplained weight loss. Seek emergency medical care if experiencing signs of diabetic ketoacidosis (DKA) or hyperosmolar hyperglycemic state (HHS), including fruity breath odor, confusion, rapid deep breathing, or severe nausea and vomiting.
+
+Sources:
+- American Diabetes Association (ADA) - Standards of Medical Care in Diabetes
+- World Health Organization (WHO) - Diabetes Key Facts
+- Centers for Disease Control and Prevention (CDC) - Diabetes Basics and Clinical Guidelines

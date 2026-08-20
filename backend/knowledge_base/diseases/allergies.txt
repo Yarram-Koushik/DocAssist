@@ -1,0 +1,38 @@
+Allergies and Hypersensitivity Reactions
+
+Overview:
+An allergy is an inappropriate, exaggerated immune system reaction (hypersensitivity) to typically harmless foreign substances known as allergens. In sensitized individuals, exposure triggers the production of allergen-specific Immunoglobulin E (IgE) antibodies. Upon subsequent re-exposure, allergens cross-link IgE on tissue mast cells and circulating basophils, stimulating rapid degranulation and the release of inflammatory mediators, including histamine, leukotrienes, and prostaglandins.
+
+Common Allergens:
+- Airborne Aeroallergens: Tree, grass, and weed pollens, house dust mites, mold spores, and animal dander (saliva/fur proteins)
+- Food Allergens: Peanuts, tree nuts, shellfish, fish, cow's milk, eggs, wheat, soy, and sesame
+- Insect Stings: Venom from bees, wasps, yellowjackets, hornets, and fire ants
+- Medications: Beta-lactam antibiotics (e.g., penicillin), non-steroidal anti-inflammatory drugs (NSAIDs), and chemotherapy agents
+- Contact Allergens: Latex, nickel, fragrance mixes, and poison ivy (urushiol)
+
+Symptoms:
+Symptoms vary according to the route of exposure and severity:
+- Allergic Rhinitis / Conjunctivitis: Repetitive sneezing, nasal congestion, watery rhinorrhea, itchy palate, and red, watery, itchy eyes (chemosis)
+- Cutaneous Reactions: Urticaria (hives/welts), pruritus (intense itching), erythema, and eczema (atopic dermatitis)
+- Gastrointestinal: Abdominal cramps, nausea, vomiting, and diarrhea following food ingestion
+
+Anaphylaxis Warning Signs (Medical Emergency):
+Anaphylaxis is a severe, rapid-onset, systemic, potentially fatal allergic reaction. Warning signs include:
+- Respiratory: Acute swelling of the tongue, uvula, or vocal cords (laryngeal edema), severe wheezing, stridor, throat tightness, and profound dyspnea
+- Cardiovascular: Rapid drop in blood pressure (hypotension), syncope (fainting), weak rapid pulse, and cardiac collapse
+- Cutaneous / Mucosal: Generalized hives, flushing, and severe angioedema (swelling around eyes and lips)
+- Systemic: Sudden feeling of impending doom, lightheadedness, or sudden loss of consciousness
+- Immediate Treatment: Intramuscular administration of epinephrine (autoinjector into the anterolateral thigh) is the definitive first-line emergency therapy.
+
+Management and Prevention:
+- Allergen avoidance: Strict avoidance of identified triggers through dietary elimination, HEPA filtration, dust mite covers, and allergen labeling inspection
+- Symptomatic pharmacotherapy: Second-generation non-sedating oral antihistamines (cetirizine, fexofenadine, loratadine), intranasal corticosteroid sprays, and mast cell stabilizers
+- Allergen Immunotherapy (AIT): Subcutaneous immunotherapy (allergy shots) or sublingual immunotherapy (SLIT) tablets to induce long-term immunological tolerance
+- Prescribed epinephrine autoinjectors (EpiPen / Auvi-Q) carried at all times by patients with known severe allergies
+
+When to See a Doctor:
+Consult an allergist or immunologist if symptoms interfere with sleep, work, or daily function, or to identify specific triggers via skin prick or serum-specific IgE testing. Call emergency medical services immediately (911) if exhibiting any signs of anaphylaxis.
+
+Sources:
+- American College of Allergy, Asthma & Immunology (ACAAI) - Allergy Facts and Anaphylaxis Management
+- MedlinePlus / National Institute of Allergy and Infectious Diseases (NIAID) - Allergies Overview

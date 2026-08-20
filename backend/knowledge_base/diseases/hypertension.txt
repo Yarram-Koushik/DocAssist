@@ -1,0 +1,39 @@
+Hypertension (High Blood Pressure)
+
+Overview:
+Hypertension is a chronic cardiovascular condition in which the long-term force of blood against arterial walls is persistently elevated, increasing the workload on the heart and accelerating arterial damage. Often referred to as the "silent killer," hypertension typically develops gradually over years without presenting noticeable clinical symptoms until significant target-organ damage occurs to the heart, kidneys, brain, or eyes.
+
+Blood Pressure Ranges (AHA / ACC Guidelines):
+Blood pressure is measured in millimeters of mercury (mmHg) and classified as follows:
+- Normal: Systolic < 120 mmHg and Diastolic < 80 mmHg
+- Elevated: Systolic 120–129 mmHg and Diastolic < 80 mmHg
+- Stage 1 Hypertension: Systolic 130–139 mmHg or Diastolic 80–89 mmHg
+- Stage 2 Hypertension: Systolic >= 140 mmHg or Diastolic >= 90 mmHg
+- Hypertensive Crisis: Systolic > 180 mmHg and/or Diastolic > 120 mmHg (requires immediate medical intervention)
+
+Symptoms:
+Most individuals with high blood pressure remain entirely asymptomatic. However, in severe or crisis elevations, symptoms may include:
+- Severe morning occipital headaches
+- Dizziness, lightheadedness, or vertigo
+- Epistaxis (nosebleeds)
+- Shortness of breath (dyspnea)
+- Visual disturbances or blurred vision
+- Chest discomfort and palpitations
+
+Risk Factors:
+- Modifiable: High dietary sodium intake (> 2,300 mg/day), physical inactivity, overweight/obesity, excessive alcohol consumption, tobacco use, chronic stress, and obstructive sleep apnea
+- Non-modifiable: Advancing age, family history of premature cardiovascular disease, and genetic factors
+
+Prevention and Lifestyle Modifications:
+- Dietary Approaches to Stop Hypertension (DASH) diet: High in vegetables, fruits, whole grains, and low-fat dairy, with reduced sodium and saturated fat intake
+- Sodium restriction: Limiting sodium intake to under 1,500–2,000 mg per day
+- Regular exercise: At least 150 to 300 minutes of moderate aerobic activity weekly
+- Weight management: Maintaining a healthy BMI (18.5–24.9 kg/m²)
+- Limiting alcohol intake and complete cessation of tobacco products
+
+When to See a Doctor:
+Have blood pressure screened annually for adults aged 18 and older, or at least every 6 months if previously elevated. Seek immediate emergency medical care if blood pressure exceeds 180/120 mmHg, particularly if accompanied by chest pain, shortness of breath, back pain, numbness, weakness, or altered consciousness.
+
+Sources:
+- American Heart Association (AHA) - High Blood Pressure Guidelines and Resources
+- World Health Organization (WHO) - Hypertension Fact Sheet

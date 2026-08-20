@@ -1,0 +1,35 @@
+Asthma
+
+Overview:
+Asthma is a chronic inflammatory disorder of the conducting airways characterized by episodic, variable airflow obstruction, bronchial hyperresponsiveness, and chronic airway remodeling. During an asthma exacerbation, airway linings swell, surrounding smooth muscles constrict (bronchospasm), and mucus production increases, severely impeding normal airflow in and out of the lungs.
+
+Common Triggers:
+- Environmental aeroallergens: House dust mites, animal dander, mold spores, and pollens
+- Respiratory irritants: Tobacco smoke, air pollution, chemical fumes, perfumes, and cleaning agents
+- Infections: Viral upper respiratory tract infections (rhinovirus, RSV, influenza)
+- Physical and weather factors: Cold dry air, changes in weather, and strenuous exercise
+- Stress, emotional arousal, and certain medications (NSAIDs, beta-blockers)
+
+Symptoms:
+Symptoms vary widely in frequency and intensity, frequently worsening at night or in the early morning:
+- Wheezing: A high-pitched whistling sound during exhalation
+- Dyspnea: Shortness of breath or difficulty exhaling completely
+- Chest tightness, pressure, or discomfort
+- Chronic or nocturnal cough, often dry or producing small amounts of clear mucus
+
+Management:
+- Pharmacotherapy: Long-term controller medications (inhaled corticosteroids, long-acting beta2-agonists) to reduce inflammation, combined with quick-relief rescue bronchodilators (short-acting beta2-agonists such as albuterol) for acute symptom relief
+- Individualized Asthma Action Plan: Documenting daily baseline medications, trigger mitigation steps, and concrete escalation rules based on symptoms and peak flow readings
+- Environmental control: Allergen mitigation, maintaining indoor air filtration, and smoking avoidance
+
+Emergency Warning Signs:
+Seek immediate emergency medical evaluation (call emergency services) if experiencing severe signs of life-threatening asthma:
+- Extreme breathlessness or inability to speak more than a few words in a single breath
+- Sucking in of the chest muscles or neck during breathing (intercostal retractions)
+- Cyanosis (blue or gray tint to the lips, nail beds, or gums)
+- Peak expiratory flow rate dropping below 50% of personal best
+- Little or no improvement after using a rescue inhaler
+
+Sources:
+- Global Initiative for Asthma (GINA) - Global Strategy for Asthma Management and Prevention
+- World Health Organization (WHO) - Asthma Fact Sheet

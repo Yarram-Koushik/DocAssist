@@ -1,0 +1,34 @@
+Cholesterol and Lipid Disorders (Dyslipidemia)
+
+Overview:
+Cholesterol is an essential waxy, fat-like substance (sterol) synthesized by the liver and obtained from dietary sources, required for cellular membrane integrity, steroid hormone synthesis, and bile acid production. Because lipids are insoluble in water, they circulate through the bloodstream bound to specialized carrier proteins called lipoproteins. Imbalances in circulating lipoprotein concentrations—known as dyslipidemia or hyperlipidemia—promote atherosclerotic plaque accumulation in arterial walls, dramatically elevating the risk of cardiovascular events, including myocardial infarction and ischemic stroke.
+
+Lipid Components and Optimal Reference Levels (AHA Guidelines):
+A comprehensive fasting lipid panel measures several critical fractions:
+- Low-Density Lipoprotein (LDL) Cholesterol ("Bad" Cholesterol): Transports cholesterol to peripheral tissues. Excess LDL oxidizes and deposits into arterial walls. Optimal level: < 100 mg/dL (or < 70 mg/dL for individuals with established coronary disease or diabetes).
+- High-Density Lipoprotein (HDL) Cholesterol ("Good" Cholesterol): Mediates reverse cholesterol transport, picking up excess cholesterol and carrying it back to the liver for excretion. Optimal level: >= 50 mg/dL for women and >= 40 mg/dL for men (>= 60 mg/dL is protective).
+- Triglycerides: The most common type of fat in the body, storing excess dietary energy. High triglycerides combined with high LDL and low HDL accelerate atherosclerosis. Normal level: < 150 mg/dL (borderline high: 150–199 mg/dL; high: 200–499 mg/dL).
+- Total Cholesterol: Total sterol content in blood. Desirable: < 200 mg/dL.
+
+Symptoms:
+High cholesterol is entirely asymptomatic and typically goes undetected without routine laboratory blood screening. In severe genetic conditions (such as familial hypercholesterolemia), clinical signs may include xanthelasma (yellowish cholesterol deposits around eyelids), tendon xanthomas, or corneal arcus.
+
+Risk Factors:
+- Unhealthy diet high in saturated fats, trans fats, and refined carbohydrates
+- Sedentary lifestyle, obesity, and metabolic syndrome
+- Cigarette smoking (damages arterial endothelium and lowers protective HDL)
+- Genetic predisposition (familial hypercholesterolemia)
+- Secondary causes: Type 2 diabetes, hypothyroidism, chronic kidney disease, and cholestatic liver disease
+
+Prevention and Lifestyle Modifications:
+- Dietary adjustments: Limiting saturated fats to < 6% of daily calories, eliminating trans fats, and increasing intake of soluble dietary fiber (oats, legumes, fruits) and plant stanols/sterols
+- Exercise: 150 to 300 minutes of moderate aerobic activity weekly to elevate HDL and reduce triglycerides
+- Weight loss and tobacco cessation
+- Clinician-guided statin therapy or non-statin lipid-lowering agents when cardiovascular risk thresholds are met
+
+When to See a Doctor:
+Adults aged 20 and older should have their lipid profile checked every 4 to 6 years, or more frequently if they have cardiovascular risk factors, diabetes, or a family history of premature heart disease.
+
+Sources:
+- American Heart Association (AHA) - About Cholesterol & Prevention Guidelines
+- MedlinePlus / National Library of Medicine (NLM) - Cholesterol Levels and Lipid Testing

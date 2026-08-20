@@ -1,0 +1,35 @@
+Tuberculosis (TB)
+
+Overview:
+Tuberculosis is a contagious, airborne bacterial infection caused by Mycobacterium tuberculosis. Although it predominantly affects the lungs (pulmonary tuberculosis), it can disseminate through the lymphatic and hematogenous pathways to involve the central nervous system, bones, kidneys, and lymph nodes (extrapulmonary tuberculosis). TB spreads when an infected person with active pulmonary disease expels aerosolized droplets by coughing, sneezing, or speaking.
+
+Latent TB Infection (LTBI) vs. Active TB Disease:
+- Latent TB Infection: The bacteria remain dormant and contained by the host immune system within granulomas. Individuals with LTBI have no symptoms, feel healthy, cannot transmit the infection to others, but test positive on tuberculin skin tests (TST) or interferon-gamma release assays (IGRA). LTBI can reactivate if the immune system becomes compromised.
+- Active TB Disease: The immune system fails to contain the bacteria, leading to active bacterial proliferation, tissue destruction, clinical symptoms, and person-to-person transmission.
+
+Symptoms of Active Pulmonary TB:
+- Persistent cough lasting longer than 3 weeks
+- Hemoptysis (coughing up blood or blood-streaked sputum)
+- Chest pain, particularly pleuritic discomfort during breathing or coughing
+- Unexplained, significant weight loss and anorexia
+- Drenching night sweats and recurrent low-grade fever
+- Chronic fatigue, generalized malaise, and chills
+
+Risk Factors:
+- Immunocompromising conditions, especially HIV infection, chemotherapy, or biologic immunosuppressive agents
+- Close contact with individuals who have active, untreated pulmonary TB
+- Malnutrition, tobacco smoking, substance misuse, and diabetes mellitus
+- Living or working in high-density congregational environments (prisons, shelters, crowded housing)
+
+Prevention:
+- Early screening and treatment of latent TB infection using standard regimens (such as rifamycin- or isoniazid-based therapies) to prevent progression to active disease
+- Bacillus Calmette-Guérin (BCG) vaccination in infants in high-burden countries
+- Infection control measures: Negative-pressure isolation rooms, HEPA air filtration, and N95 respirators in healthcare facilities
+- Adherence to complete, directly observed antimicrobial regimens (e.g., 6-month combination therapy with rifampin, isoniazid, pyrazinamide, and ethambutol) to prevent drug-resistant strains (MDR-TB and XDR-TB)
+
+When to See a Doctor:
+Consult a physician promptly if you have a persistent cough lasting more than 3 weeks, cough up blood, experience unexplained night sweats and weight loss, or have had close contact with someone diagnosed with active tuberculosis.
+
+Sources:
+- World Health Organization (WHO) - Global Tuberculosis Report & Fact Sheet
+- Centers for Disease Control and Prevention (CDC) - Tuberculosis (TB) Care and Guidelines

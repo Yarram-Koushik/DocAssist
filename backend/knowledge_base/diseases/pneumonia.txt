@@ -1,0 +1,35 @@
+Pneumonia
+
+Overview:
+Pneumonia is an acute inflammatory infection of the lung parenchyma, specifically affecting the microscopic air sacs (alveoli). When infected, the alveoli fill with exudate, pus, and cellular debris, severely impairing gas exchange and oxygenation. Pneumonia can be caused by various pathogens, including bacteria, viruses, and fungi, and is classified based on where it is acquired, such as Community-Acquired Pneumonia (CAP) or Hospital-Acquired Pneumonia (HAP).
+
+Etiology (Bacterial vs. Viral):
+- Bacterial Pneumonia: Commonly caused by Streptococcus pneumoniae, Haemophilus influenzae, Mycoplasma pneumoniae, or Legionella pneumophila. It typically presents acutely with high fevers, productive purulent sputum, and localized consolidation on chest imaging.
+- Viral Pneumonia: Caused by Influenza A/B, Respiratory Syncytial Virus (RSV), SARS-CoV-2, or rhinoviruses. Symptoms often develop more insidiously with non-productive cough, diffuse interstitial involvement, and generalized myalgias. Secondary bacterial superinfections can follow viral pneumonia.
+
+Symptoms:
+- Productive cough producing thick green, yellow, or rust-colored (blood-tinged) sputum
+- High fever, shaking chills, and profuse diaphoresis
+- Sharp, pleuritic chest pain that worsens with deep inspiration or coughing
+- Dyspnea (shortness of breath) and rapid, shallow breathing (tachypnea)
+- Fatigue, loss of appetite, nausea, vomiting, or diarrhea
+- In older adults: Confusion, altered mental status, hypothermia rather than fever, and generalized decline
+
+High-Risk Groups:
+- Adults aged 65 years and older, and infants/children under 2 years
+- Individuals with chronic comorbidities: COPD, asthma, heart failure, chronic liver or kidney disease, and diabetes
+- Immunocompromised individuals (e.g., HIV/AIDS, chemotherapy recipients, organ transplant patients)
+- Hospitalized patients, particularly those on mechanical ventilation, and individuals with impaired swallowing (aspiration risk)
+- Chronic tobacco smokers and heavy alcohol consumers
+
+Prevention:
+- Vaccination: Pneumococcal conjugate vaccines (PCV15, PCV20) and pneumococcal polysaccharide vaccine (PPSV23) for high-risk populations and older adults; annual influenza vaccination; COVID-19 vaccination
+- Rigorous respiratory hygiene and frequent hand washing
+- Smoking cessation and maintaining good oral hygiene to reduce aspiration of oral pathogens
+
+When to See a Doctor:
+Consult a healthcare professional promptly if experiencing persistent high fever, productive cough, or difficulty breathing. Seek immediate emergency care if exhibiting severe dyspnea, cyanotic lips or nail beds, confusion, or severe chest pain.
+
+Sources:
+- World Health Organization (WHO) - Pneumonia in Children and Adults Fact Sheet
+- Centers for Disease Control and Prevention (CDC) - Pneumonia Causes, Symptoms, and Prevention

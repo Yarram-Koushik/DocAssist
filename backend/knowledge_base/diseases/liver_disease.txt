@@ -1,0 +1,46 @@
+Liver Disease and Hepatic Disorders
+
+Overview:
+The liver is the largest internal organ, responsible for essential metabolic functions including protein synthesis (albumin, clotting factors), lipid and carbohydrate regulation, detoxification of endogenous and xenobiotic compounds, and bile production for lipid absorption. Liver disease encompasses a wide spectrum of acute and chronic pathological conditions, ranging from Non-Alcoholic Fatty Liver Disease (NAFLD / MASLD) and viral hepatitis to progressive hepatic fibrosis, cirrhosis, and hepatocellular carcinoma.
+
+Spectrum of Liver Conditions:
+- Metabolic Dysfunction-Associated Steatotic Liver Disease (MASLD / NAFLD): Hepatic steatosis (fat accumulation in > 5% of hepatocytes) unrelated to excessive alcohol consumption. It can progress to Metabolic Dysfunction-Associated Steatohepatitis (MASH), causing inflammation and fibrosis.
+- Viral Hepatitis: Inflammation caused by hepatotropic viruses—primarily Hepatitis A (fecal-oral), Hepatitis B, and Hepatitis C (parenteral/bloodborne). Chronic B and C are major drivers of cirrhosis and liver cancer.
+- Alcoholic Liver Disease: Steatosis, alcoholic hepatitis, and cirrhosis resulting from chronic excess alcohol consumption.
+- Cirrhosis: The end-stage histological consequence of chronic hepatic injury, characterized by diffuse architectural distortion, fibrous septa, and regenerative parenchymal nodules leading to portal hypertension and liver failure.
+
+Liver Function Tests (LFTs) Significance:
+- Alanine Aminotransferase (ALT): Enzyme concentrated in hepatocytes; elevated levels indicate acute hepatocellular injury or inflammation.
+- Aspartate Aminotransferase (AST): Present in liver, heart, and skeletal muscle; elevated alongside ALT in hepatic necrosis.
+- Alkaline Phosphatase (ALP) & Gamma-Glutamyl Transferase (GGT): Elevated in biliary obstruction, cholestasis, or infiltrative liver disorders.
+- Total Bilirubin: Breakdown product of hemoglobin; elevated levels cause clinical jaundice/icterus.
+- Serum Albumin and Prothrombin Time (PT/INR): Key indicators of hepatic synthetic capacity.
+
+Symptoms:
+Early hepatic disease is frequently asymptomatic. When symptoms emerge or decompensation occurs, signs include:
+- Jaundice: Yellow discoloration of the sclerae and skin
+- Dark, tea-colored urine and pale, clay-colored (acholic) stools
+- Pruritus (widespread itching due to bile acid deposition in skin)
+- Right upper quadrant abdominal discomfort and fullness
+- Ascites (fluid accumulation in the peritoneal cavity) and peripheral edema
+- Easy bruising, coagulopathy, spider angiomas, and palmar erythema
+- Hepatic encephalopathy (confusion, lethargy, tremors/asterixis) in advanced cirrhosis
+
+Risk Factors:
+- Metabolic syndrome, obesity, Type 2 diabetes, and hypertriglyceridemia
+- Chronic high alcohol intake
+- Unprotected exposure to infected blood/fluids (Hepatitis B & C risk)
+- Exposure to hepatotoxins or unsupervised hepatotoxic drug use (e.g., acetaminophen overdose)
+
+Prevention:
+- Vaccination against Hepatitis A and Hepatitis B
+- Weight management and Mediterranean dietary pattern for steatotic liver disease
+- Moderation or complete cessation of alcohol consumption
+- Safe injection practices and screening for Hepatitis C (curable with direct-acting antivirals)
+
+When to See a Doctor:
+Consult a physician if you develop yellowing of the skin/eyes, dark urine, unexplained abdominal swelling, or persistent right upper abdominal pain. Seek immediate emergency evaluation for vomiting blood (hematemesis), black tarry stools (melena), or sudden confusion.
+
+Sources:
+- American Association for the Study of Liver Diseases (AASLD) - Practice Guidelines
+- MedlinePlus / National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK) - Liver Diseases
