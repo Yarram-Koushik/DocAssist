@@ -21,7 +21,8 @@ class Config:
     # Vector DB
     FAISS_INDEX_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'vector_store')
     
-    CORS_ORIGINS = os.getenv('CORS_ORIGINS', 'http://localhost:5173').split(',')
+    cors_raw = os.getenv('CORS_ORIGINS', '*')
+    CORS_ORIGINS = [o.strip() for o in cors_raw.split(',') if o.strip()] if cors_raw != '*' else '*'
 
 class DevelopmentConfig(Config):
     DEBUG = True
@@ -29,7 +30,10 @@ class DevelopmentConfig(Config):
 
 class ProductionConfig(Config):
     DEBUG = False
-    SQLALCHEMY_DATABASE_URI = os.getenv('DATABASE_URL')
+    _db_url = os.getenv('DATABASE_URL')
+    if _db_url and _db_url.startswith('postgres://'):
+        _db_url = _db_url.replace('postgres://', 'postgresql://', 1)
+    SQLALCHEMY_DATABASE_URI = _db_url or ('sqlite:///' + os.path.join(os.path.dirname(os.path.abspath(__file__)), 'docassist.db'))
 
 class TestingConfig(Config):
     TESTING = True
@@ -41,3 +45,4 @@ config = {
     'testing': TestingConfig,
     'default': DevelopmentConfig
 }
+

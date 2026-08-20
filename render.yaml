@@ -1,0 +1,19 @@
+services:
+  # DocAssist Backend API (Flask + Gunicorn)
+  - type: web
+    name: docassist-backend
+    runtime: python
+    buildCommand: "pip install -r backend/requirements.txt"
+    startCommand: "gunicorn --chdir backend wsgi:app --bind 0.0.0.0:$PORT --workers 2 --threads 4 --timeout 120"
+    plan: free
+    envVars:
+      - key: FLASK_ENV
+        value: production
+      - key: SECRET_KEY
+        generateValue: true
+      - key: JWT_SECRET_KEY
+        generateValue: true
+      - key: CORS_ORIGINS
+        value: "*"
+      - key: GROQ_API_KEY
+        sync: false

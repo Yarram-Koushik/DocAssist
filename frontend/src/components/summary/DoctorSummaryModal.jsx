@@ -15,6 +15,7 @@ import {
   FileCheck
 } from 'lucide-react';
 import { post, get } from '../../lib/api';
+import { API_URL } from '../../lib/constants';
 import { toast } from 'react-hot-toast';
 
 export const DoctorSummaryModal = ({ isOpen, onClose, conversationId, reports = [] }) => {
@@ -58,7 +59,7 @@ export const DoctorSummaryModal = ({ isOpen, onClose, conversationId, reports = 
     setExporting(true);
     try {
       const token = localStorage.getItem('token');
-      const response = await fetch(`/api/summary/${summaryData.id}/export?format=pdf`, {
+      const response = await fetch(`${API_URL}/summary/${summaryData.id}/export?format=pdf`, {
         headers: { 'Authorization': `Bearer ${token}` }
       });
       if (!response.ok) throw new Error('PDF export failed');
@@ -85,7 +86,7 @@ export const DoctorSummaryModal = ({ isOpen, onClose, conversationId, reports = 
     if (!summaryData?.id) return;
     try {
       const token = localStorage.getItem('token');
-      const response = await fetch(`/api/summary/${summaryData.id}/export?format=txt`, {
+      const response = await fetch(`${API_URL}/summary/${summaryData.id}/export?format=txt`, {
         headers: { 'Authorization': `Bearer ${token}` }
       });
       if (!response.ok) throw new Error('Export failed');

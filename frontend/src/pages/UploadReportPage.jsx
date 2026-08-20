@@ -17,7 +17,7 @@ import {
   Layers
 } from 'lucide-react';
 import { toast } from 'react-hot-toast';
-import { REPORT_TYPES } from '../lib/constants';
+import { REPORT_TYPES, API_URL } from '../lib/constants';
 
 export const UploadReportPage = () => {
   const [file, setFile] = useState(null);
@@ -51,13 +51,14 @@ export const UploadReportPage = () => {
       formData.append('report_type', reportType);
 
       const token = localStorage.getItem('token');
-      const response = await fetch('/api/reports/upload', {
+      const response = await fetch(`${API_URL}/reports/upload`, {
         method: 'POST',
         headers: {
           'Authorization': `Bearer ${token}`
         },
         body: formData
       });
+
 
       const resData = await response.json();
       

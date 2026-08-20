@@ -1,7 +1,9 @@
 import { Home, MessageSquare, FileText, Search, Clock, User, Settings } from 'lucide-react';
 
-export const API_URL = '/api';
+const rawApiUrl = import.meta.env.VITE_API_URL || '';
+export const API_URL = rawApiUrl ? (rawApiUrl.endsWith('/api') ? rawApiUrl : `${rawApiUrl.replace(/\/$/, '')}/api`) : '/api';
 export const APP_NAME = 'DocAssist';
+
 
 export const NAV_ITEMS = [
   { label: 'Dashboard', path: '/dashboard', icon: Home },
