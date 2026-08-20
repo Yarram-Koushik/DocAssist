@@ -25,14 +25,17 @@ def create_app(config_name='default'):
     if not os.path.exists(app.config['UPLOAD_FOLDER']):
         os.makedirs(app.config['UPLOAD_FOLDER'])
         
-    # Auto-initialize database tables on startup
-    with app.app_context():
-        try:
-            db.create_all()
-        except Exception as e:
-            app.logger.warning(f"Database init warning: {e}")
+    # Explicitly import all SQLAlchemy models so db.metadata registers all tables
+    import models.user
+    import models.chat
+    import models.report
+    import models.medicine
+    import models.summary
+    import models.emergency
+    import models.feedback
+    import models.analytics
+    import models.medical_source
 
-        
     from routes.auth import auth_bp
     from routes.chat import chat_bp
     from routes.reports import reports_bp
@@ -52,6 +55,14 @@ def create_app(config_name='default'):
     app.register_blueprint(admin_bp, url_prefix='/api/admin')
     app.register_blueprint(history_bp, url_prefix='/api/history')
     app.register_blueprint(feedback_bp, url_prefix='/api/feedback')
+
+    # Auto-initialize database tables on startup (after all models are registered)
+    with app.app_context():
+        try:
+            db.create_all()
+        except Exception as e:
+            app.logger.warning(f"Database init warning: {e}")
+
 
     @app.route('/api/health', methods=['GET'])
     def health():
